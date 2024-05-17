@@ -1,0 +1,218 @@
+{"Archivos": {
+	"C": {
+		"ADX_IDT1": [
+			{"Nombre":"ufpar???", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UDBINES.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UFSALDOS.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"eamopera.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"eamitemr.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"eamgauth.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXCSOUF.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UDCONSFI.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UFCONSFI.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMGATLF.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"almacen.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"tablaiva.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"image???.png", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UDFRANKI.DAT", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"pinclave.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"}
+			{"Nombre":"pincnfg.dat", "Nodo":"CC", "DirTmp":"IDT1/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ADX_SDT1": [
+			{"Nombre":"ADXHSIHF.DAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXIPCCD.DAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXIPCCZ.BAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXIPDDD.DAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXHSIUF.DAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXIPDDZ.BAT", "Nodo":"CC", "DirTmp":"SDT1/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ADX_IPGM": [
+			{"Nombre":"EAMTS10L.286", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXAECCF.DAT", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMSDEF1.DAT", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMSOP1S.DAT", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAM?DESC.DAT", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMS@???", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMS$???", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMSOPTS.DAT", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMCSMLL.286", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMTO000", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMTO020", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMTO040", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"SVUSER.JAR", "Nodo":"CC", "DirTmp":"IPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ADX_UPGM": [
+			{"Nombre":"EAMTS10L.SYM", "Nodo":"CC", "DirTmp":"UPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"EAMCSMLL.SYM", "Nodo":"CC", "DirTmp":"UPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ADX_SPGM": [
+			{"Nombre":"ADXJAVIF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXJAVPF.SYM", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXJAVRF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXJVCCF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXJVDDF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXDKCCF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"ADXDKDDF.DAT", "Nodo":"CC", "DirTmp":"SPGM/", "Distribucion":5, "Replicar":"false", "Comprimir":"false"}
+		],
+		"RESPALDO": [
+			{"Nombre":"UFORDENS.ZIP", "Nodo":"CC", "DirTmp":"RESPALDO/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"UFSALDOS.ZIP", "Nodo":"CC", "DirTmp":"RESPALDO/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"}
+		],
+		"FPS": [
+			{"Nombre":"FPSFTRAC.DAT", "Nodo":"CC", "DirTmp":"FPS/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"},
+			{"Nombre":"FPSFTRKY.DAT", "Nodo":"CC", "DirTmp":"FPS/", "Distribucion":4, "Replicar":"false", "Comprimir":"false"}
+		],
+		"LOGOS": [
+			{"Nombre":"EAMTLOGO.*", "Nodo":"CC", "DirTmp":"LOGOS/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"}
+		],
+		"RESPALDO/LOGTRX": [
+			{"Nombre":"LG[DD][MM][AA].[TTT]", "Nodo":"CC", "DirTmp":"RESPALDO_LG/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ej/j": [
+			{"Nombre":"j??????", "Nodo":"CC", "DirTmp":"EJ/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"}
+		],
+		"ej/l": [
+			{"Nombre":"[AAAA][MM][DD]", "Nodo":"CC", "DirTmp":"EJ/", "Distribucion":1, "Replicar":"false", "Comprimir":"false"}
+		]
+	},
+	"F": {
+		"lds/pef": [
+			{"Nombre":"pef.jar", "Nodo":"CC", "DirTmp":"f_lds_pef/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Apuestas": [
+			{"Nombre":"apuestas.jar", "Nodo":"CC", "DirTmp":"f_lds_Apuestas/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/BonoRegalo": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_BonoRegalo/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/axis2": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_axis2/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/axis": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_axis/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/conf": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_conf/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/axis": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_axis/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/crediExpress": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_crediExpress/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Datacapt": [
+			{"Nombre":"DataCapt.jar", "Nodo":"CC", "DirTmp":"f_lds_Datacapt/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/ecommerce": [
+			{"Nombre":"ecommerce.jar", "Nodo":"CC", "DirTmp":"f_lds_ecommerce/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/ecommerce/lib": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_ecommerce_lib/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Image": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_Image/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Lanzador": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_Lanzador/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/LBII": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_LBII/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lds/ecommerce": [
+			{"Nombre":"ecommerce.jar", "Nodo":"CC", "DirTmp":"f_lds_lds_ecommerce", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lds/ecommerce/lib": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_lds/ecommerce_lib/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lib": [
+			{"Nombre":"lds-utils.jar", "Nodo":"CC", "DirTmp":"f_lds_lib/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lib/pruebas": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_lib_pruebas/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lib/spring": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_lib_spring/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/lib/xml": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_lib_xml/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/libs": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_libs/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Mefia": [
+			{"Nombre":"mefia.jar", "Nodo":"CC", "DirTmp":"f_lds_Mefia/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/mod": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_mod/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/MotorDeReglas": [
+			{"Nombre":"motor-desciciones.jar", "Nodo":"CC", "DirTmp":"f_lds_MotorDeReglas/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/moviired": [
+			{"Nombre":"moviired.jar", "Nodo":"CC", "DirTmp":"f_lds_moviired/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/opt": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_opt/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/partSaldos": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_partSaldos/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/partSaldos/conf": [
+			{"Nombre":"partSaldos.properties", "Nodo":"CC", "DirTmp":"f_lds_partSaldos_conf/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/partSaldos/libs": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_partSaldos_libs/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/partSaldos/logs": [
+			{"Nombre":"KrLog.txt", "Nodo":"CC", "DirTmp":"f_lds_partSaldos_logs/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/partSaldos/ventana_lib": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_partSaldos/ventana_lib/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/pdf417": [
+			{"Nombre":"DATACAPT.JAR", "Nodo":"CC", "DirTmp":"f_lds_pdf417/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Quiosco": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_Quiosco/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/RecaudoConvenio": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_RecaudoConvenio/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/RecaudoMefia": [
+			{"Nombre":"mefia-sin-tarjeta.jar", "Nodo":"CC", "DirTmp":"f_lds_RecaudoMefia/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Recaudos": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_Recaudos/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Sodexo": [
+			{"Nombre":"sodexo.jar", "Nodo":"CC", "DirTmp":"f_lds_Sodexo/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/TarjetaRegalo": [
+			{"Nombre":"tarjeta-regalo.jar", "Nodo":"CC", "DirTmp":"f_lds_TarjetaRegalo/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/TarjetaRegalo/libs": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_lds_TarjetaRegalo_libs/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/Tef": [
+			{"Nombre":"BinInterpreter.jar", "Nodo":"CC", "DirTmp":"f_lds_Tef/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/ufpar": [
+			{"Nombre":"UFPAR189", "Nodo":"CC", "DirTmp":"f_lds_ufpar/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"Servicios/Mefia": [
+			{"Nombre":"*", "Nodo":"CC", "DirTmp":"f_Servicios_Mefia/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"Servicios/Sodexo": [
+			{"Nombre":"BinInterpreter.jar", "Nodo":"CC", "DirTmp":"f_Servicios_Sodexo/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/FacturaElectronica": [
+			{"Nombre":"factura-electronica.jar", "Nodo":"CC", "DirTmp":"F_LDS_FacturaElectronica/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"},
+			{"Nombre":"TigoWS.jar", "Nodo":"CC", "DirTmp":"F_LDS_CHIP/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"},
+			{"Nombre":"ConsultaMotor.jar", "Nodo":"CC", "DirTmp":"F_LDS_CHIP/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		],
+		"lds/respaldo": [
+			{"Nombre":"BACKUP.PY", "Nodo":"CC", "DirTmp":"M_LDS_RESPALDO/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"},
+			{"Nombre":"BACKUP.JSON", "Nodo":"CC", "DirTmp":"M_LDS_RESPALDO/", "Distribucion":0, "Replicar":"true", "Comprimir":"false"}
+		]
+	}
+}}

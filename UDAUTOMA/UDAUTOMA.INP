@@ -1,0 +1,6 @@
+UDAUTOMA[stack[add[2000]]]=
+UDAUTOMA.obj [s],
+UcFuncsu.lbj [s],
+SCHANGE,
+BASROUT [s],
+ADXACRCL.L86 [s]
